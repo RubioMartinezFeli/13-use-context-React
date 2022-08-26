@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/13-use-context-React/static/css/main.09355953.css",
+    "main.js": "/13-use-context-React/static/js/main.586b8959.js",
+    "index.html": "/13-use-context-React/index.html",
+    "main.09355953.css.map": "/13-use-context-React/static/css/main.09355953.css.map",
+    "main.586b8959.js.map": "/13-use-context-React/static/js/main.586b8959.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09355953.css",
+    "static/js/main.586b8959.js"
+  ]
+}
